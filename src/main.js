@@ -1,4 +1,4 @@
-import { createApp, h } from "/vue";
+import { createApp, h } from "vue";
 import App from "./App.vue";
 
 import "@fortawesome/fontawesome-free/css/all.css";
